@@ -1,2 +1,2 @@
 # github
-Project Details
+Welcome to git hub repo
